@@ -1,3 +1,2 @@
 # yossy-island
-The name was  not reccomended by GitHub...
-A site about yoshi.
+A site about Yoshi.
